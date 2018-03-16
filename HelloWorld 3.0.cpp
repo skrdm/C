@@ -8,7 +8,7 @@ int main()
 
 	c = b - a;
 
-	printf("При вычитании %i из %i получается %i\n", a, b, c);
+	printf(" При вычитании %i из %i получается %i\n", a, b, c);
 
 	return 0;
 }
